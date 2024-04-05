@@ -35,7 +35,7 @@ Led an exploratory data analysis and linear regression project for Terro's Real 
 - IBM Python For Data Science - COURSERA
 - Data Analytics - Great Learning (6 Months Offline)
 - AWS Cloud Technical Essentials - EDX
-- HackerRank SQL Intermediate Level Developer Certification**
+- HackerRank SQL Intermediate Level Developer Certification
 
 
 ## Skills 🛠️
