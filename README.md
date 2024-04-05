@@ -1,4 +1,4 @@
-# Ezekiah Jabez's Portfolio👨‍💻
+# Ezekiah Jabez's Portfolio 👨‍💻
 
 ## About Me ℹ️
 
