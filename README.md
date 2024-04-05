@@ -27,8 +27,8 @@ Led an exploratory data analysis and linear regression project for Terro's Real 
 - Email: ezekiahjabez2002@gmail.com
 - Phone: +91 9600644972
 - Address: Plot No.09, Parthasarathy Nagar, 4th Street, Thoraipakkam, Chennai - 600097
-- LinkedIn: [@ezekiahjabez]((https://www.linkedin.com/in/ezekiah-jabez-58419224a/))
-
+- **LinkedIn:** [Ezekiah Jabez](https://www.linkedin.com/in/ezekiah-jabez-58419224a/)
+  
 ## Certifications 🎓
 
 - HarvardX Data Science Inference and Modeling - EDX
@@ -60,4 +60,7 @@ Led an exploratory data analysis and linear regression project for Terro's Real 
 - Karunya Institute of Technology and Sciences, Karunya University, Coimbatore
 - Bachelor of Science (B.Sc) in Data Science and Analytics, 2020 - 2023
 - Received Academic Excellence Award for achieving the highest CGPA (9.26/10) in the graduating class.
+
+- - Great Learning, Chennai
+  - Completed a 6-month training Certification program on Data Analytics.
 
