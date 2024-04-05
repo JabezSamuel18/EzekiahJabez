@@ -4,7 +4,7 @@
 
 I'm a diligent Data Science and Analytics student with a strong academic record (9.2/10 CGPA) from Karunya University. Highly skilled in collecting, analyzing, and interpreting complex datasets to derive actionable insights and support informed decision-making. Completed a rigorous six-month professional industrial training program with Great Learning in Data Analytics, gaining hands-on experience and practical skills in the field. Proficient in statistical analysis, Machine Learning, and data visualization, coupled with excellent communication, leadership, and collaboration abilities.
 
-## Projects 🚀 ###Click on the title of the project to access my project.
+## Projects 🚀 ### Click on the title of the project to access my project.
 
 ### [Web Application for Diabetes Prediction](https://github.com/JabezSamuel18/DiabetesPrediction-ML)
 
