@@ -64,5 +64,5 @@ Led an exploratory data analysis and linear regression project for Terro's Real 
   - Bachelor of Science (B.Sc) in Data Science and Analytics, 2020 - 2023
   - Received Academic Excellence Award for achieving the highest CGPA (9.26/10) in the graduating class.
 
--  Great Learning, Chennai
+- Great Learning, Chennai
   - Completed a 6-month training Certification program on Data Analytics.
