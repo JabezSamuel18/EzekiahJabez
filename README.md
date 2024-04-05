@@ -65,4 +65,5 @@ Led an exploratory data analysis and linear regression project for Terro's Real 
 
 -  Great Learning, Chennai
   - Completed a 6-month training Certification program on Data Analytics.
+  - Completed a 6-month training Certification program on Data Analytics.
 
