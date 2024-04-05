@@ -7,19 +7,19 @@ I'm a diligent Data Science and Analytics student with a strong academic record 
 ## Projects 🚀 
 #### Click on the title of the project to access my project.
 
-### [Web Application for Diabetes Prediction](https://github.com/JabezSamuel18/DiabetesPrediction-ML)
+### [Web Application for Diabetes Prediction (Python)](https://github.com/JabezSamuel18/DiabetesPrediction-ML)
 
 Developed a user-friendly interface using Streamlit for accurate diabetes prediction. Applied the Random Forest algorithm to analyze health parameters, showcasing proficiency in machine learning and web development for healthcare applications.
 
-### Indian Agricultural Data Analysis
+### [Indian Agricultural Data Analysis (Python)](https://github.com/JabezSamuel18/IndianAgriculturalDataAnalysis)
 
 Conducted data analysis and visualization of large-scale agricultural datasets using Python, Pandas, and Matplotlib. Unearthed valuable insights, identified optimal crop seasons, and demonstrated statistical analysis skills.
 
-### Military Expenditure Analysis
+### [Military Expenditure Analysis (Tableau)](https://github.com/JabezSamuel18/MilitaryExpenditureAnalysis-Tableau-)
 
 Analyzed global military expenditure datasets using Tableau, employing trendline analysis to identify spending patterns and forecast future trends. Demonstrated expertise in data analysis, trend forecasting, and effective data visualization.
 
-### Terro's Real Estate Business Report
+### [Terro's Real Estate Business Report (Microsoft Excel)](https://github.com/JabezSamuel18/RealEstateBusinessReport)
 
 Led an exploratory data analysis and linear regression project for Terro's Real Estate Agency. Evaluated various factors to estimate house prices in Boston. Identified negative correlations with house prices. Developed and assessed a regression model, contributing valuable insights for more accurate pricing models.
 
