@@ -27,7 +27,7 @@ Led an exploratory data analysis and linear regression project for Terro's Real 
 - Email: ezekiahjabez2002@gmail.com
 - Phone: +91 9600644972
 - Address: Plot No.09, Parthasarathy Nagar, 4th Street, Thoraipakkam, Chennai - 600097
-- LinkedIn: [@ezekiahjabez](https://www.linkedin.com/in/ezekiahjabez)
+- LinkedIn: [@ezekiahjabez]((https://www.linkedin.com/in/ezekiah-jabez-58419224a/))
 
 ## Certifications 🎓
 
