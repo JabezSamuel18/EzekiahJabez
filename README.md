@@ -6,7 +6,7 @@ I'm a diligent Data Science and Analytics student with a strong academic record 
 
 ## Projects 🚀
 
-### Web Application for Diabetes Prediction(https://github.com/JabezSamuel18/DiabetesPrediction-ML)
+### [Web Application for Diabetes Prediction](https://github.com/JabezSamuel18/DiabetesPrediction-ML)
 
 Developed a user-friendly interface using Streamlit for accurate diabetes prediction. Applied the Random Forest algorithm to analyze health parameters, showcasing proficiency in machine learning and web development for healthcare applications.
 
